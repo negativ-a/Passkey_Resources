@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.trezo.wallet",
+      "sha256_cert_fingerprints": [
+        "A4B1C1F89FB71D5BE2921B7F4ABEB23083214F1BDC9FF00207A66A19ED565E9E"
+      ]
+    }
+  }
+]
